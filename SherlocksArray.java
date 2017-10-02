@@ -3,6 +3,7 @@ package hackerRank;
 import java.util.Scanner;
 import java.util.Vector;
 
+// Sherlock's Array Merging Algorithm
 // Should add dynamic programming property in order not to recalculate permutations
 public class SherlocksArray {
 
