@@ -3,6 +3,7 @@ package hackerRank;
 import java.util.Scanner;
 import java.util.Vector;
 
+// Should add dynamic programming property in order not to recalculate permutaions
 public class SherlocksArray {
 
 	public static long modulo = 1000000007;
